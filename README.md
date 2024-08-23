@@ -43,4 +43,4 @@
 - https://mui.com/material-ui/getting-started/templates/
 - https://react-redux.js.org/tutorials/typescript-quick-start
 - https://www.npmjs.com/package/react-pro-sidebar
-- https://react-chartjs-2.js.org/
+- https://react-chartjs-2.js.org/               
